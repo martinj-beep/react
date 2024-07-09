@@ -1,0 +1,12 @@
+container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: aqua; */
+}
+
+container a {
+  padding-right: 17px;
+  text-decoration: none;
+  color: #ff7b0d;
+}

@@ -1,0 +1,12 @@
+.containerBody {
+  display: flex;
+  justify-content: space-between;
+}
+
+.orangeButton {
+  color: white;
+  background-color: #ff7b0d;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
